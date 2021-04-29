@@ -10,7 +10,6 @@ import GamePhoto6 from 'LigaDataTask/assets/images/game_photo_6.jpeg';
 import GamePhoto7 from 'LigaDataTask/assets/images/game_photo_7.jpeg';
 import _ from 'lodash';
 import {LigaDataTaskRequest} from 'LigaDataTask/services/hooks/interface'
-import { IData } from './IData';
 
 /**
  *
